@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "liyuanit",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
